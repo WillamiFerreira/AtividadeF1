@@ -11,6 +11,9 @@ body{
 article{
     padding: 25px 0 25px 0;
 }
+header img{
+    min-width: 100%;
+}
 h4{
     display: flex;
     justify-content: space-between;
